@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "live2d-widget-model-haru": "^1.0.5",
+    "live2d-widget-model-haruto": "^1.0.5"
+  }
+}
